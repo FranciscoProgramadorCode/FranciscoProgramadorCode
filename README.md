@@ -55,8 +55,8 @@ Aplicación del tiempo construida con React y TypeScript consumiendo una API ext
 
 ## 📫 Contacto
 
-[![Email](francisco.programador.code@gmail.com)
-[![LinkedIn](https://www.linkedin.com/in/francisco-bobadilla-815a00376/)
+Email: francisco.programador.code@gmail.com
+LinkedIn: https://www.linkedin.com/in/francisco-bobadilla-815a00376/
 
 ---
 
