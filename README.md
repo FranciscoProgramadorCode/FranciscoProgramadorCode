@@ -22,6 +22,7 @@ JavaScript
 **Base de datos**
 SQL Server
 SQLite
+SupaBase
 
 **Otras tecnologías**
 Unity
